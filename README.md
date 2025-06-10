@@ -12,7 +12,7 @@ Una **librería colaborativa de ideas**, donde cada uno puede aportar propuestas
 
 ## ✍️ ¿Cómo participar?
 
-1. **Propón una idea**: crea una carpeta con un nombre que represente tu idea dentro completa como minimo el [documento tecnico](./TECHNICAL_DOCUMENT_TEMPLATE.md), tambien puedes añadir ejemplos de codigo, documentacion, imagenes.
+1. **Propón una idea**: crea una carpeta con un nombre que represente tu idea dentro completa como minimo el [documento tecnico](./TECHNICAL_DOCUMENT_TEMPLATE.md), tambien puedes añadir el documneto [analisis de mercado](./MARKET_ANALYSIS_TEMPLATE.md), ejemplos de codigo, documentacion, imagenes.
 2. **Comparte y comenta**: da feedback a ideas existentes. La crítica constructiva mejora todo.
 3. **Explora y vota**: entre todos decidiremos cuáles tienen más sentido para desarrollar.
 
