@@ -16,13 +16,25 @@ Una **librería colaborativa de ideas**, donde cada uno puede aportar propuestas
 2. **Comparte y comenta**: da feedback a ideas existentes. La crítica constructiva mejora todo.
 3. **Explora y vota**: entre todos decidiremos cuáles tienen más sentido para desarrollar.
 
-## 🔥 ¿Qué tipo de ideas buscamos?
+## 🚀 ¿Qué tipo de ideas buscamos?
 
 - Aplicaciones útiles, curiosas o simplemente divertidas.
 - Proyectos con potencial de aprendizaje, innovación o impacto.
 - Herramientas que a nosotros mismos nos gustaría usar.
 
 No hay límites. No hay ideas malas. Solo oportunidades de aprender y construir juntos.
+
+## 💸 ¿Y si monetizamos?
+
+Muchas de estas ideas pueden convertirse en productos reales. En cada propuesta también analizaremos posibles vías de **monetización**:
+
+- Suscripciones o versiones premium
+- Recomendacion o visivilidad destacada
+- Publicidad no invasiva
+- Venta de funcionalidades específicas
+- Modelos B2B (negocio a negocio)
+- Productos de nicho con clientes concretos
+- Apps gratuitas con opciones de pago únicas
 
 ## 🌱 ¿Por qué este repositorio?
 
